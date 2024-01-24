@@ -1,0 +1,4 @@
+<launch>
+  <node pkg="com2009_team_sab" type="move_circle.py" name="move_circle1" output="screen">
+  </node>
+</launch>
